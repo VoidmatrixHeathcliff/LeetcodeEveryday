@@ -1,5 +1,7 @@
 # LeetcodeEveryday • 力扣通关，大厂坐穿
 
+*这个仓库已经停止维护啦，来我博客看看吧：[Voidmatrix's Blog](http://www.voidmatrix.xyz/categories/%E7%AE%97%E6%B3%95%E5%88%B7%E9%A2%98%E9%9B%86)*
+
 > 菜鸡的力扣每日刷题汇总~
 
 + 题目难度不固定，选题看心情（多半为每日推荐和顺序刷题）
